@@ -1,0 +1,5 @@
+{"level":30,"time":"2023-12-14T17:45:54.444Z","pid":29492,"hostname":"WIN-10-64","msg":"Listening on 55123"}
+{"level":30,"time":"2023-12-14T17:46:13.642Z","pid":29492,"hostname":"WIN-10-64","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-14T17:46:13.643Z","pid":29492,"hostname":"WIN-10-64","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-14T17:46:13.649Z","pid":29492,"hostname":"WIN-10-64","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-14T17:46:13.649Z","pid":29492,"hostname":"WIN-10-64","msg":"End of node method getBrowserCatalog"}
